@@ -1,0 +1,14 @@
+{
+  "name": "lambdacalculator",
+  "version": "1.0.0",
+  "description": "A Pen created at CodePen.io. You can find this one at https://codepen.io/elamahpla/pen/jayNJg.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "theamazingness@gmail.com",
+  "license": "ISC",
+  "keywords": [
+    "calculator"
+  ]
+}
